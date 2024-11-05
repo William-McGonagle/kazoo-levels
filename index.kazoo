@@ -1,6 +1,9 @@
 <kazoo>
   <room>
     <plane postition="0 0 0" rotation="0 0 0" scale="10 1 10" />
-    <model postition="0 0 0" src="" />
+    <model postition="4 0 3" src="https://github.com/William-McGonagle/kazoo-levels/raw/refs/heads/main/models/Broken_Traffic_Cone_001.glb" />
+    <model postition="4 0 4" src="https://github.com/William-McGonagle/kazoo-levels/raw/refs/heads/main/models/Broken_Traffic_Cone_001.glb" />
+    <model postition="4 0 5" src="https://github.com/William-McGonagle/kazoo-levels/raw/refs/heads/main/models/Broken_Traffic_Cone_001.glb" />
+    <model postition="4 0 6" src="https://github.com/William-McGonagle/kazoo-levels/raw/refs/heads/main/models/Broken_Traffic_Cone_001.glb" />
   </room>
 </kazoo>
