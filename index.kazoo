@@ -1,0 +1,6 @@
+<kazoo>
+  <room>
+    <plane postition="0 0 0" rotation="0 0 0" scale="10 1 10" />
+    <model postition="0 0 0" src="" />
+  </room>
+</kazoo>
